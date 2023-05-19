@@ -1,0 +1,21 @@
+
+/*
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+*/
+
+/* or https://github.com/visgl/deck.gl/blob/8.9-release/examples/website/map-tile/index.html
+*/
+body {
+      margin: 0;
+      font-family: sans-serif;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+    }
+
